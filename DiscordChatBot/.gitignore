@@ -1,0 +1,4 @@
+search.sqlite
+__pycache__/
+*.pyc
+.idea/
